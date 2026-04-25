@@ -8,7 +8,7 @@ A sleek, intuitive, and feature-rich Flutter application designed to help you tr
 
 | Dashboard |                     Expenses                     | Add Entry |                   Update/Delete Entry                    |
 | :---: |:------------------------------------------------:| :---: |:--------------------------------------------------------:|
-| <img src="screenshots/dashboard.png" width="250"> | <img src="screenshots/expenses.png" width="250"> | <img src="screenshots/add_tx.png" width="250"> | <img src="screenshots/update&delete_tx.png" width="250"> |
+| <img src="screenshots/dashboard.png" height="450"> | <img src="screenshots/expenses.png" height="450"> | <img src="screenshots/add_tx.png" height="450"> | <img src="screenshots/update&delete_tx.png" height="450"> |
 
 ---
 
