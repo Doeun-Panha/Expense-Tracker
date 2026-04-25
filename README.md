@@ -4,6 +4,14 @@ A sleek, intuitive, and feature-rich Flutter application designed to help you tr
 
 ---
 
+## 📸 Screenshots
+
+| Dashboard |                     Expenses                     | Add Entry |                   Update/Delete Entry                    |
+| :---: |:------------------------------------------------:| :---: |:--------------------------------------------------------:|
+| <img src="screenshots/dashboard.png" width="250"> | <img src="screenshots/expenses.png" width="250"> | <img src="screenshots/add_tx.png" width="250"> | <img src="screenshots/update&delete_tx.png" width="250"> |
+
+---
+
 ## ✨ Key Features
 
 - **📊 Visual Analytics**: Interactive pie charts to visualize spending distribution across different categories.
